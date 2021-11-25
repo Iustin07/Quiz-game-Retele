@@ -1,0 +1,10 @@
+Cate zile sunt intr-o saptamana?
+A : 7	B : 6	C : 5
+Cate zile sunt intr-un an?
+A : 320	B : 360	C : 365
+Cate culori sunt intr-un curcubeu?
+A : 5	B : 4	C : 7
+Care este capitala Romaniei?’
+A : Bucuresti	B : Suceava	C : Iasi
+#
+
